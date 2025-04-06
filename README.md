@@ -96,7 +96,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 ## Responsive Design
 
-The portfolio is fully responsive with breakpoints for:  
+This is fully responsive with breakpoints for:  
 - Mobile: < 640px  
 - Tablet: 640px - 1024px  
 - Desktop: > 1024px  
@@ -114,7 +114,4 @@ The portfolio is fully responsive with breakpoints for:
 - LinkedIn: [@yash-umak](https://www.linkedin.com/in/yash-umak-5242ab320/)  
 - GitHub: [@yashumak](https://github.com/yashumak)  
 
-## Acknowledgments
-
-- Inspired by modern AI-powered sentiment analysis tools.  
-- Thanks to the open-source community for amazing libraries.  
+ 
