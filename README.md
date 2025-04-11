@@ -24,7 +24,7 @@ A real-time sentiment analysis tool for tweets, built with Next.js, TypeScript, 
 - Deployment: Vercel  
 
 ## 📂 Project Structure
-
+```bash
 tweet-sentiment-analysis/  
 │   ├── package.json          # Project dependencies & scripts  
 │   ├── tsconfig.json         # TypeScript configuration  
@@ -48,33 +48,33 @@ tweet-sentiment-analysis/
 │   ├── node_modules/         # Dependencies  
 │   ├── .gitignore            # Files to ignore in Git  
 │   ├── .env.local            # Environment variables  
-
+```
 ## ©️ Getting Started
 
 1. Clone the repository:
-\`\`\`sh
+```bash
 git clone https://github.com/yashumak/Tweet-Sentiment-Analysis.git
-\`\`\`
+```
 
 2. Install dependencies:
-\`\`\`sh
+```bash
 npm install
 # or
 yarn install
-\`\`\`
+```
 
 3. Create a .env.local file in the root directory and add your environment variables:
-\`\`\`
+```bash
 NEXT_PUBLIC_TWITTER_BEARER_TOKEN=your_twitter_api_key
 NEXT_PUBLIC_HUGGINGFACE_API_KEY=your_huggingface_api_key
-\`\`\`
+```
 
 4. Run the development server:
-\`\`\`sh
+```bash
 npm run dev
 # or
 yarn dev
-\`\`\`
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 ## Environment Variables
